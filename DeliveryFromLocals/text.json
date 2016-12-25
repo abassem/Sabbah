@@ -1,0 +1,163 @@
+{
+	"studios" : [
+		
+		
+		{
+			"name" : "Hospitals",
+			"logo" : "Hospitals.png",
+			"films" : [
+				
+			{
+				"name" : " ",
+				"description" : "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil. ",
+				"poster" : "57357.png",
+				"trailer" : "https://www.youtube.com/watch?v=XWWd6p2JHKo",
+                       "number" : "57357"
+			}, 
+			
+			{
+				"name" : "أبو الريش ",
+				"description" : "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he emerges whenever he loses his temper. However, Banner then must fight a soldier who unleashes himself as a threat stronger than he. ",
+				"poster" : "Incredible hulk.jpg",
+				"trailer" : "https://www.youtube.com/watch?v=xbqNb2PFKKA"
+			}, 
+			 
+			{
+				"name" : "Magdy Yacoub",
+				"description" : "The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders. ",
+				"poster" : "Thor.jpg",
+				"trailer" : "https://www.youtube.com/watch?v=JOddp-nlNvQ"
+			},
+			
+			{
+				"name" : "Ain Shams",
+				"description" : "Steve Rogers, a rejected military soldier transforms into Captain America after taking a dose of a \"Super-Soldier serum\". But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization. ",
+				"poster" : "Captain America. The First Avenger.jpg",
+				"trailer" : "https://www.youtube.com/watch?v=JerVrbLldXw"
+			},
+                       {
+                       "name" : "Kasr Ainy",
+                       "description" : "Steve Rogers, a rejected military soldier transforms into Captain America after taking a dose of a \"Super-Soldier serum\". But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization. ",
+                       "poster" : "Captain America. The First Avenger.jpg",
+                       "trailer" : "https://www.youtube.com/watch?v=JerVrbLldXw"
+                       }
+                       
+			
+                       
+			
+			
+			]
+		},
+		
+		{
+			"name" : "Tahya Masr",
+			"logo" : "DC.jpg",
+			"films" : [
+				
+			{
+				"name" : "Man of steel",
+				"description" : "Clark Kent, one of the last of an extinguished race disguised as an unremarkable human, is forced to reveal his identity when Earth is invaded by an army of survivors who threaten to bring the planet to the brink of destruction.",
+				"poster" : "Man of steel.jpg",
+				"trailer" : "https://www.youtube.com/watch?v=T6DJcgm3wNY"
+			}, 
+			
+			{
+				"name" : "The dark knight",
+				"description" : "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice. ",
+				"poster" : "The dark knight.jpg",
+				"trailer" : "https://www.youtube.com/watch?v=EXeTwQWrcwY"
+			}, 
+			 
+			{
+				"name" : "Batman v Superman: Dawn of Justice",
+				"description" : "Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs. ",
+				"poster" : "Batman v Superman. Dawn of Justice.jpg",
+				"trailer" : "https://www.youtube.com/watch?v=0WWzgGyAH6Y"
+			}, 
+			
+			{
+				"name" : "Suicide squad",
+				"description" : "A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse. ",
+				"poster" : "Suicide squad.jpg",
+				"trailer" : "https://www.youtube.com/watch?v=CmRih_VtVAs"
+			},
+			
+			{
+				"name" : "Justice league",
+				"description" : "Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne enlists the help of his newfound ally, Diana Prince, to face an even greater enemy. ",
+				"poster" : "Justice league.jpg",
+				"trailer" : "https://www.youtube.com/watch?v=fIHH5-HVS9o"
+			}
+			
+			
+			]
+		}, 
+		
+		{
+			"name" : "20th century fox",
+			"logo" : "tahyamasr.jpg",
+			"films" : [
+				
+			{
+				"name" : "Deadpool",
+				"description" : "A fast-talking mercenary with a morbid sense of humor is subjected to a rogue experiment that leaves him with accelerated healing powers and a quest for revenge. ",
+				"poster" : "Deadpool.jpg",
+				"trailer" : "https://www.youtube.com/results?search_query=Deadpool+trailer"
+			}, 
+			
+			{
+				"name" : "The Wolverine",
+				"description" : "When Wolverine is summoned to Japan by an old acquaintance, he is embroiled in a conflict that forces him to confront his own demons. ",
+				"poster" : "Wolverine.jpg",
+				"trailer" : "https://www.youtube.com/watch?v=Rh1LdTFkm7I"
+			}, 
+			 
+			{
+				"name" : "X - Men",
+				"description" : "Two mutants come to a private academy for their kind whose resident superhero team must oppose a terrorist organization with similar powers. ",
+				"poster" : "X - Man.jpg",
+				"trailer" : "https://www.youtube.com/watch?v=nbNcULQFojc"
+			}
+			
+			]
+		}, 
+		
+		{
+			"name" : "Star wars",
+			"logo" : "reyada.jpg",
+			"films" : [
+				
+			{
+				"name" : "Star Wars: A New Hope",
+				"description" : "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.",
+				"poster" : "New Hope.jpg",
+				"trailer" : "https://www.youtube.com/watch?v=vZ734NWnAHA"
+			}, 
+			
+			{
+				"name" : "Star Wars: The Empire Strikes Back",
+				"description" : "After the rebels have been brutally overpowered by the Empire on their newly established base, Luke Skywalker takes advanced Jedi training with Master Yoda, while his friends are pursued by Darth Vader as part of his plan to capture Luke. ",
+				"poster" : "The Empire Strikes Back.jpg",
+				"trailer" : "https://www.youtube.com/watch?v=JNwNXF9Y6kY"
+			}, 
+			 
+			{
+				"name" : "Star Wars: The Force Awakens",
+				"description" : "Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance. ",
+				"poster" : "The Force Awakens.jpg",
+				"trailer" : "https://www.youtube.com/watch?v=sGbxmsDFVnE"
+			}, 
+			
+			{
+				"name" : "Rogue One: A Star Wars Story",
+				"description" : "The Rebellion makes a risky move to steal the plans to the Death Star, setting up the epic saga to follow.",
+				"poster" : "A Star Wars Story.jpg",
+				"trailer" : "https://www.youtube.com/watch?v=sC9abcLLQpI"
+			}
+			
+			]
+		}
+			
+		
+	]
+}
